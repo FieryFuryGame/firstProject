@@ -1,0 +1,30 @@
+<html>
+<title>Lesson 9 - Navigation</title>
+
+<h1>My Travels</h1>
+
+<nav>
+
+<h2>Menu</h2>
+
+<a href ="#Destinations">Destinations</a>
+
+<a href ="http://photos.google.com">Gallery</a>
+
+</nav>
+
+<div id = "Destinations">
+
+<h3>Macedonia</h3>
+
+<h3>Germany</h3>
+
+<h3>Turkey</h3>
+
+<h3>Poland</h3>
+
+</div>
+
+<div id ="Gallery></div>
+
+</html>

@@ -1,0 +1,43 @@
+<html>
+
+<head>
+
+<title>Lesson 8 - Dividers</title>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Divs and Ids</h1>
+
+</header>
+
+<div id ="firstSection">
+
+<p>Hello.</p>
+
+<p>This is an example lesson.</p>
+
+</div>
+
+<div id="links">
+
+<a href=[Insert Link Here]</a>
+
+<a href=[Insert Link Here]</a>
+
+</div>
+
+<footer>
+
+<p>Thanks for joining us</p>
+
+<p>Come back soon!</p>
+
+</footer>
+
+</body>
+
+</html>

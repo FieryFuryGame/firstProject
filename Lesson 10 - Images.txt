@@ -1,0 +1,6 @@
+<html>
+<title>Lesson 10 - Images</title>
+
+<img src="https://learningwithlee.files.wordpress.com/2018/089/web-design-intro.jpg" width=825 height=510 alt="image of HTML and CSS course book with notebook and laptop" />
+
+</html>
